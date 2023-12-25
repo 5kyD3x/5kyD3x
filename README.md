@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm DeKrypt!</h1>
+<h1 align="center">Hey 👋, I'm SkyDex!</h1>
 <h3 align="center">I'm your average 20 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 <p align="center">
